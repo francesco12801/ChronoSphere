@@ -65,3 +65,23 @@ This project was developed as part of the Web3 P2P Marketplace course at [Univer
 [Installation and setup instructions will be added]
 📄 License
 MIT 
+
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+TO RUN: 
+npm run dev 
+
+
+TO-DO: 
+- Get JODA 
+- Connect contract to frontend 
+- Understand how to generate all the card. 
