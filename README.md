@@ -1,10 +1,10 @@
-# ChronoSphere
-ChronoSphere: Historical Moments NFT Marketplace
-ChronoSphere: Historical Moments NFT Marketplace
-ChronoSphere is a decentralized NFT marketplace where users can collect unique historical moments through a pack-opening system. Built on the Ethereum blockchain (Sepolia testnet), it offers an engaging way to own and trade significant moments from history.
-🌟 Features
+# ChronoSphere: Historical Moments NFT Marketplace
 
-Pack Opening System
+ChronoSphere is a decentralized NFT marketplace where users can collect unique historical moments through a pack-opening system. Built on the Ethereum blockchain (Sepolia testnet), it offers an engaging way to own and trade significant moments from history.
+
+## 🌟 Features
+
+### Pack Opening System
 
 Basic Pack (3 cards): Chance for rare finds
 Advanced Pack (5 cards): Guaranteed rare card
@@ -12,21 +12,21 @@ Premium Pack (7 cards): Guaranteed legendary card
 Each pack generates random cards with different rarity levels
 
 
-Rarity System
+### Rarity System
 
 Common: Historical events
 Rare: Significant milestones
 Legendary: World-changing moments
 
 
-Scoring & Leaderboard
+### Scoring & Leaderboard
 
 Points awarded based on card rarity
 Global leaderboard tracking top collectors
 Real-time score updates
 
 
-Smart Contracts
+### Smart Contracts
 
 ERC-721 for NFT implementation
 Integration with YODA token (ERC-20)
@@ -34,16 +34,16 @@ Automated ComPot fee collection
 
 
 
-🛠 Technology Stack
+## 🛠 Technology Stack
 
-Frontend
+### Frontend
 
 React.js
 Web3.js
 CSS Modules
 
 
-Blockchain
+### Blockchain
 
 Solidity Smart Contracts
 OpenZeppelin Contracts
@@ -51,7 +51,7 @@ Ethereum (Sepolia Testnet)
 
 
 
-🎮 Gameplay
+## 🎮 Gameplay
 
 Connect your wallet containing YODA tokens
 Choose and purchase a pack
@@ -59,11 +59,11 @@ Open packs to reveal historical moment cards
 Build your collection and climb the leaderboard
 Each transaction includes a 1 YODA fee for the community pot
 
-📝 Project Context
+## 📝 Project Context
 This project was developed as part of the Web3 P2P Marketplace course at [University Name]. It implements a decentralized marketplace where students can participate in a digital economy using YODA tokens for transactions.
-🚀 Getting Started
+## 🚀 Getting Started
 [Installation and setup instructions will be added]
-📄 License
+## 📄 License
 MIT 
 
 
