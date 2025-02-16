@@ -6,31 +6,31 @@ ChronoSphere is a decentralized NFT marketplace where users can collect unique h
 
 ### Pack Opening System
 
-Basic Pack (3 cards): Chance for rare finds
-Advanced Pack (5 cards): Guaranteed rare card
-Premium Pack (7 cards): Guaranteed legendary card
-Each pack generates random cards with different rarity levels
+- Basic Pack (3 cards): Chance for rare finds
+- Advanced Pack (5 cards): Guaranteed rare card
+- Premium Pack (7 cards): Guaranteed legendary card
+- Each pack generates random cards with different rarity levels
 
 
 ### Rarity System
 
-Common: Historical events
-Rare: Significant milestones
-Legendary: World-changing moments
+- Common: Historical events
+- Rare: Significant milestones
+- Legendary: World-changing moments
 
 
 ### Scoring & Leaderboard
 
-Points awarded based on card rarity
-Global leaderboard tracking top collectors
-Real-time score updates
+- Points awarded based on card rarity
+- Global leaderboard tracking top collectors
+- Real-time score updates
 
 
 ### Smart Contracts
 
-ERC-721 for NFT implementation
-Integration with YODA token (ERC-20)
-Automated ComPot fee collection
+- ERC-721 for NFT implementation
+- Integration with YODA token (ERC-20)
+- Automated ComPot fee collection
 
 
 
@@ -38,26 +38,26 @@ Automated ComPot fee collection
 
 ### Frontend
 
-React.js
-Web3.js
-CSS Modules
+- React.js
+- Web3.js
+- CSS Modules
 
 
 ### Blockchain
 
-Solidity Smart Contracts
-OpenZeppelin Contracts
-Ethereum (Sepolia Testnet)
+- Solidity Smart Contracts
+- OpenZeppelin Contracts
+- Ethereum (Sepolia Testnet)
 
 
 
 ## 🎮 Gameplay
 
-Connect your wallet containing YODA tokens
-Choose and purchase a pack
-Open packs to reveal historical moment cards
-Build your collection and climb the leaderboard
-Each transaction includes a 1 YODA fee for the community pot
+- Connect your wallet containing YODA tokens
+- Choose and purchase a pack
+- Open packs to reveal historical moment cards
+- Build your collection and climb the leaderboard
+- Each transaction includes a 1 YODA fee for the community pot
 
 ## 📝 Project Context
 This project was developed as part of the Web3 P2P Marketplace course at [University Name]. It implements a decentralized marketplace where students can participate in a digital economy using YODA tokens for transactions.
